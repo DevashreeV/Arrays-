@@ -35,6 +35,8 @@ Here, 'datatype' is the data type of the elements that will be stored in the arr
       }
 
 OUTPUT- 
-The first element of the array is: 1
-The third element of the array is: 3
-The last element of the array is: 5
+         The first element of the array is: 1
+         
+         The third element of the array is: 3
+         
+         The last element of the array is: 5
